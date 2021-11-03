@@ -3,8 +3,6 @@ I’m currently learning Software Engineerieng.
 -Most of my repositories are private.
 Specialized on HTML, CSS, JS, Java and C# / .NET.
 
-![Uploading 58480979cef1014c0b5e4901.png…]()
-
 <!---
 PLACEHOLDER
 --->
