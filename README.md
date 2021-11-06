@@ -4,7 +4,7 @@ I’m currently learning Software Engineerieng.
 Specialized on HTML, CSS, JS, Java and C# / .NET.
 
 ███████████████████████████████████████████████████
-###### Sample Text
+###### Sample Text, lorem ispum
 ███████████████████████████████████████████████████
 
 <!---
