@@ -5,6 +5,7 @@
 - Most of my repositories are private.
 - Specialized on HTML, CSS, JS, Java, C# / .NET, PHP, SQL and JQuery.
 - The tools i use the most Visual Studio Code and NetBeans.
+- Other tools include XAMPP (for phpMyAdmin and Apache) and Postman.
 ## ██►██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██◄██
 
 <!---
