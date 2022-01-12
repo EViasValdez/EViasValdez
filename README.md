@@ -9,5 +9,5 @@
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!---
-PLACEHOLDER
+PLACEHOLDER, what was this for anyway?
 --->
