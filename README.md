@@ -7,6 +7,7 @@
 - Other tools include XAMPP (for phpMyAdmin and Apache) and Postman.
 - Creating new repositories featuring some old documents of the assignature.
 - I have modified names in my repositories, making it easy to search a certain file.
+- Files mostly listed in order with their respective orders.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!---
