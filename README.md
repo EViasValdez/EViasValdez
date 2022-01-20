@@ -7,6 +7,7 @@
 - Other tools include XAMPP (for phpMyAdmin and Apache) and Postman.
 - Creating new repositories featuring some old documents of the assignature.
 - Files mostly listed in order with most of their respective orders (and dates).
+- Some other documents have been updated for making it compatible with more up to date SDK.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!---
