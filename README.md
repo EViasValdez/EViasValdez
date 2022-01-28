@@ -1,4 +1,3 @@
-
 ## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
 - Hi, I’m Eduardo Viñas Valdez, currently learning Software Engineerieng.
 - Most of my repositories are private, although I have modified the names in my repositories.
