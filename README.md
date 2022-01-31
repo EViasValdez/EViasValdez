@@ -11,3 +11,9 @@
 <!---
 PLACEHOLDER
 --->
+
+<!--Formato de descripcion-->
+<!----Descripcion---->
+<!----Separador de la descripcion ---->
+<!----Notas---->
+<!----Separador de las notas---->
