@@ -18,4 +18,4 @@ PLACEHOLDER
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Lista de directorios y archivos---->
-<!----Separador de la lista---->
+<!----Separador de los directorios y archivos---->
