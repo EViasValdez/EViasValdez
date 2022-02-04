@@ -15,7 +15,6 @@ this.numserie = numser;
 this.numasientos = numasi;
 }
 
-
 agregar metodos
 sin especificaciones
 
@@ -27,7 +26,6 @@ public class perro
    string comer;
    string jugar;
 }
-
 
 public string ladrar {
     Console.Writeline("El perro ladra WOOF WOOF");
