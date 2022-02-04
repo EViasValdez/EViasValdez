@@ -1,0 +1,40 @@
+Por hacer
+metodo: editar informacion
+pasar a obejto una toshiba, lenovo y hp
+
+- Metodo borrar.
+- Codigo del programa ejecutandose.
+
+public void agregarauto(int indent, string autotipo, string marc, string mode, string codpla, int numser, int numasi){
+this.id = id;
+this.tipoauto = autotipo;
+this.marca = marc;
+this.modelo = mode;
+this.codigoplaca = codpla;
+this.numserie = numser;
+this.numasientos = numasi;
+}
+
+
+agregar metodos
+sin especificaciones
+
+Atributos
+public class perro
+{
+   string ladrar;
+   string saltar;
+   string comer;
+   string jugar;
+}
+
+
+public string ladrar {
+    Console.Writeline("El perro ladra WOOF WOOF");
+  } 
+
+https://csharp.com.es/poo/
+
+Se trata de un ente abstracto usado en programación que permite separar los diferentes componentes de un programa, simplificando así su elaboración, depuración y posteriores mejoras, un objeto se deriva de una clase.
+
+Es la funcion asociada a un objeto.
