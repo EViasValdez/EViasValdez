@@ -17,5 +17,5 @@ PLACEHOLDER
 <!----Separador de la descripcion ---->
 <!----Notas---->
 <!----Separador de las notas---->
-<!----Lista de directorios y archivos---->
-<!----Separador de los directorios y archivos---->
+<!----Directorio de archivos---->
+<!----Separador del directorio de archivos---->
