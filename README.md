@@ -12,7 +12,7 @@
 PLACEHOLDER
 --->
 
-<!--Formato de descripcion-->
+<!--Formato de descripcion de repositorios-->
 <!----Descripcion---->
 <!----Separador de la descripcion ---->
 <!----Notas---->
