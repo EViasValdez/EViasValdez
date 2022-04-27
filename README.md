@@ -5,8 +5,9 @@
 - The programming softwares I use the most are Visual Studio Code / VSCodium and NetBeans.
 - Other programs include XAMPP (for phpMyAdmin and Apache) and Laravel.
 - Ohter repositories feature some works of past assignatures.
-- Files mostly listed in order with most of their respective orders (and dates).
+- Files are mostly listed in order with most of their respective orders (and dates).
 - Some other documents have been updated for making them compatible with modern engines.
+- Certain projects don't work properly due to code issues.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 <!---
 PLACEHOLDER
