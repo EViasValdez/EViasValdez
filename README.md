@@ -10,10 +10,6 @@
 - Certain projects don't work properly due to code issues.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
-<!---
-PLACEHOLDER
---->
-
 <!--Formato de descripción de repositorios-->
 <!----Descripción---->
 <!----Separador de la descripción ---->
