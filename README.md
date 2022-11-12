@@ -6,7 +6,7 @@
 - Other programs include XAMPP and WAMP (both for phpmyAdmin).
 - Other repositories feature some works of past assignatures.
 - Files are listed in date order with most of their respective files.
-- Some other documents have been updated for making them compatible with modern engines.
+- Some other documents have been updated to making them compatible with modern engines.
 - Certain projects don't work properly due to code issues.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
