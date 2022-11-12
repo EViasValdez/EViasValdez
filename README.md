@@ -3,7 +3,7 @@
 - Some of my repositories are private, although I have modified the names in my repositories.
 - Specialized on HTML, CSS, JS, Java, C# / .NET, PHP, SQL, Python and jQuery.
 - The programming softwares I use the most are Visual Studio Code / VSCodium and Apache NetBeans.
-- Other programs include XAMPP (for phpMyAdmin and Apache) and Laravel.
+- Other programs include XAMPP and WAMP.
 - Other repositories feature some works of past assignatures.
 - Files are mostly listed in order with most of their respective dates and order.
 - Some other documents have been updated for making them compatible with modern engines.
