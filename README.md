@@ -15,5 +15,5 @@
 <!----Separador de la descripción ---->
 <!----Notas---->
 <!----Separador de las notas---->
-<!----Directorio con ubicación de archivos---->
-<!----Separador del directorio con ubicación de archivos---->
+<!----Directorio con descripcion de cada programa---->
+<!----Separador del directorio con descripcion de cada programa---->
