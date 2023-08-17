@@ -8,7 +8,7 @@
 - All programs are listed with a description of them.
 - Some other documents have been updated to making them compatible with more modern engines.
 - Certain projects don't work properly due to code issues.
-- I have changed the format of almost every repository.
+- I have changed the format of most of my repositories.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
