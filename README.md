@@ -1,7 +1,7 @@
 ## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
 - Hi, I’m Eduardo Viñas Valdez, currently learning Software Engineering.
-- Some of my repositories are private, although I have modified the names in their respective repositories.
-- Specialized on HTML, CSS, JS, Java, C# / .NET, PHP, SQL, Python and jQuery.
+- Some of my repositories are private, although I have modified some the names in their respective repositories.
+- Specialized on HTML, CSS, JS, Java, C# / .NET, PHP, SQL, Python, jQuery and C++.
 - The programming softwares I use the most are Visual Studio Code / VSCodium and Apache NetBeans.
 - Other programs include XAMPP and WAMP (both for phpMyAdmin).
 - Other repositories feature works of past assignatures.
