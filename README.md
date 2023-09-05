@@ -11,7 +11,6 @@
 - I have changed the format of most of my repositories.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
-
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
 <!----Separador de las notas---->
