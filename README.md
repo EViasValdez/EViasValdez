@@ -1,5 +1,5 @@
 ## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
-(Descripción en español por ser escrita.)
+<!----Notas---->(Descripción en español por ser escrita.)
 
 - Hi, I’m Eduardo Viñas Valdez, currently learning Software Engineering.
 - Some of my repositories are private, although I have modified some the names in their respective repositories.
