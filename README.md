@@ -2,7 +2,7 @@
 <!--
 - Hola, soy Eduardo Viñas Valdez, actualmente estoy estudiando Ingeniería de Software. 
 - Algunos de mis repositorios son privados, aunque he modificado algunos de los nombres en sus respectivos repositorios.
- - Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++. 
+- Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++. 
 - Los softwares de programación que más utilizo son Visual Studio Code y Visual Studio Community.
 - Otros programas incluyen XAMPP y WAMP (ambos para phpMyAdmin).
 - Otros repositorios cuentan con obras de materias pasadas.
