@@ -1,5 +1,5 @@
 ## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
-<!--
+<!-- Descripcion todavia por poner
 - Hola, soy Eduardo Viñas Valdez, actualmente estoy estudiando Ingeniería de Software. 
 - Algunos de mis repositorios son privados, aunque he modificado algunos de los nombres en sus respectivos repositorios.
 - Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++. 
