@@ -1,5 +1,4 @@
 ## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
-<!-- Descripcion todavia por poner
 - Hola, soy Eduardo Viñas Valdez, actualmente estoy estudiando Ingeniería de Software. 
 - Algunos de mis repositorios son privados, aunque he modificado algunos de los nombres en sus respectivos repositorios.
 - Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++. 
@@ -10,7 +9,6 @@
 - Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos. 
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código. 
 - He cambiado el formato de la mayoría de mis repositorios.
--->
 
 - Hi, I’m Eduardo Viñas Valdez, currently learning Software Engineering.
 - Some of my repositories are private, although I have modified some the names in their respective repositories.
