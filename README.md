@@ -1,4 +1,4 @@
-## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
+## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
 - Hola, soy Eduardo Viñas Valdez, actualmente estoy estudiando Ingeniería de Software. 
 - Algunos de mis repositorios son privados, aunque he modificado algunos de los nombres en sus respectivos repositorios.
 - Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++. 
@@ -22,7 +22,7 @@
 - Some other documents have been updated to making them compatible with more modern engines.
 - Certain other projects don't work properly due to code issues.
 - I have changed the format of most of my repositories.
-## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
+## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
