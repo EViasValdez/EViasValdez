@@ -8,7 +8,7 @@
 - Todos los programas se enumeran con una descripción de los mismos. 
 - Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos. 
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código. 
-- He cambiado el formato de la mayoría de mis repositorios.
+- He cambiado el formato de la mayoría de los repositorios.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 - All programs are listed with a description of them.
 - Some other documents have been updated to making them compatible with more modern engines.
 - Certain other projects don't work properly due to code issues.
-- I have changed the format of most of my repositories.
+- I have changed the format of most of the repositories.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
