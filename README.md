@@ -10,7 +10,7 @@
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código. 
 - He cambiado el formato de la mayoría de mis repositorios.
 
-------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Hi, I’m Eduardo Viñas Valdez, currently learning Software Engineering.
 - Some of my repositories are private, although I have modified some the names in their respective repositories.
