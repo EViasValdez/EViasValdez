@@ -14,7 +14,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- Hello, I am Eduardo Viñas Valdez, I am currently studying Software Engineering.
+- Hello, I am Eduardo Viñas Valdez, Jr Software Engineer.
 - Some of my repositories are private, although I modified some of the names in their respective repositories.
 - Mostly specialized in HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery and C++.
 - The programming software that I use most are Visual Studio Code and Visual Studio Community in recent versions.
