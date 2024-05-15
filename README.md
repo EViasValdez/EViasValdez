@@ -10,7 +10,9 @@
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código.
 - He cambiado el formato de la mayoría de los repositorios.
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 - Hello, I am Eduardo Viñas Valdez, Jr Software Engineer.
 - Some of my repositories are private, although I modified some of the names in their respective repositories.
