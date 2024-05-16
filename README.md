@@ -25,7 +25,6 @@
 - Some other projects are not working properly due to code issues.
 - Changed the format of most repositories.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
-
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
 <!----Separador de las notas---->
