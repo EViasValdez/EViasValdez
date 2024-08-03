@@ -11,6 +11,16 @@
 - He cambiado el formato de la mayoría de los repositorios.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Hello, I'm Eduardo Viñas Valdez, Jr. Software Engineering developer. 
+- Some of my repositories are private, although I have modified some of the names to match.
+- Mostly specialized in HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery and C++. 
+- The programming software that I use most are Visual Studio Code and Visual Studio Community in recent versions.
+- Other programs include XAMPP and WAMP (both for projects requiring phpMyAdmin).
+- Other repositories have programs for past subjects.
+- All programs are listed with a description of them. 
+- Some other documents have been updated to make them compatible with more modern engines. 
+- Some other projects are not working properly due to code issues.
+- I have changed the format of most of the repositories.
 
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
