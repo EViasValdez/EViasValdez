@@ -20,7 +20,6 @@
 - Some other documents have been updated to make them compatible with more modern engines. 
 - Some other projects are not working properly due to code issues.
 - I have changed the format of most of the repositories.
-
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
@@ -28,3 +27,5 @@
 <!----Separador de las notas---->
 <!----Directorio con descripción de los programas---->
 <!----Separador del directorio con descripción de los programas---->
+
+<!--Formato de descripción de repositorios (Programas individuales)-->
