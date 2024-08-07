@@ -29,3 +29,7 @@
 <!----Separador del directorio con descripción de los programas---->
 
 <!--Formato de descripción de repositorios (Programas individuales)-->
+<!----Descripcion---->
+<!----Separador de la descripcion---->
+<!----Detalles---->
+<!----Separador de los detalles---->
