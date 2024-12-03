@@ -10,6 +10,7 @@
 - He cambiado el formato de la mayoría de los repositorios.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - Hello, I'm Eduardo Viñas Valdez, Jr. Software Engineering developer.
 - Some of my repositories are private, although I have modified some of the names to match.
 - Mostly specialized in HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery and C++.
