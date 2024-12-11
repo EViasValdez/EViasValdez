@@ -7,20 +7,7 @@
 - Todos los programas se enumeran con una descripción de los mismos.
 - Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos. 
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código.
-- He cambiado el formato de la mayoría de los repositorios.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- Hello, I'm Eduardo Viñas Valdez, Jr. Software Engineering developer.
-- Some of my repositories are private, although I have modified some of the names to match.
-- Mostly specialized in HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery and C++.
-- The programming software that I use most are Visual Studio Code and Visual Studio Community in recent versions.
-- Other repositories have programs for past assignements.
-- All programs are listed with a description of them.
-- Some other documents have been updated to make them compatible with more modern engines.
-- Some other projects are not working properly due to code issues.
-- I have changed the format of most of the repositories.
-## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
+- He cambiado el formato de la mayoría de los repositorios. ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
