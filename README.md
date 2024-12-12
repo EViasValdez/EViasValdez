@@ -7,7 +7,8 @@
 - Todos los programas se enumeran con una descripción de los mismos.
 - Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos. 
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código.
-- He cambiado el formato de la mayoría de los repositorios. ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
+- He cambiado el formato de la mayoría de los repositorios.
+- ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
