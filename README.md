@@ -15,9 +15,9 @@
 <!----Separador de las notas---->
 <!----Directorio con descripción de los programas---->
 <!----Separador del directorio con descripción de los programas---->
-<!--Formato de descripción de repositorios (Programas individuales unicamente)-->
 
-<!----Descripcion---->
-<!----Separador de la descripcion---->
+<!--Formato de descripción de repositorios (Programas individuales únicamente)-->
+<!----Descripción---->
+<!----Separador de la descripción---->
 <!----Detalles---->
 <!----Separador de los detalles---->
