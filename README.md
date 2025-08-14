@@ -1,4 +1,4 @@
-## ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
+##  ●│██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██│●
 - Hola, soy Eduardo Viñas Valdez, desarrollador de Ingeniería de Software Jr.
 - Algunos de mis repositorios son privados, aunque he modificado algunos de los nombres para que coincidan.
 - Mayormente especializado en HTML, CSS, JS, Java, C#/.NET, PHP, SQL, Python, jQuery y C++.
