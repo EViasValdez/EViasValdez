@@ -5,7 +5,7 @@
 - Los softwares de programación que más utilizo son Visual Studio Code y Visual Studio Community en versiones recientes.
 - Otros repositorios cuentan con programas de materias pasadas.
 - Todos los programas se enumeran con una descripción de los mismos.
-- Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos. 
+- Algunos otros documentos se han actualizado para hacerlos compatibles con motores más modernos.
 - Algunos otros proyectos no funcionan correctamente debido a problemas de código.
 - He cambiado el formato de la mayoría de los repositorios.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
