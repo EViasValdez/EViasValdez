@@ -10,7 +10,7 @@
 - He cambiado el formato de la mayoría de los repositorios.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
-<!--Formato de descripción de repositorios-->
+<!--Formato de descripción de repositorios--> 
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Directorio con descripción de los programas---->
