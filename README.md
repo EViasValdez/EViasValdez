@@ -6,7 +6,7 @@
 - Otros repositorios cuentan con programas de materias pasadas.
 - Todos los programas están listados con una descripción de los mismos.
 - Estan gran parte de los proyectos actualizados para hacerlos compatibles con motores más modernos.
-- Algunos otros proyectos no funcionan correctamente debido a problemas de código.
+- Algunos proyectos no funcionan correctamente debido a problemas de código.
 - He cambiado el formato de la mayoría de los repositorios.
 ## ●│██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██│●
 
